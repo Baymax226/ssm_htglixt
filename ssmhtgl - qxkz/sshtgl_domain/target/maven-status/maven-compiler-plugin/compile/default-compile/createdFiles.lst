@@ -1,0 +1,8 @@
+com\itheima\ssm\domian\Role.class
+com\itheima\ssm\domian\Product.class
+com\itheima\ssm\domian\Orders.class
+com\itheima\ssm\domian\SysLog.class
+com\itheima\ssm\domian\Traveller.class
+com\itheima\ssm\domian\UserInfo.class
+com\itheima\ssm\domian\Member.class
+com\itheima\ssm\domian\Permission.class
